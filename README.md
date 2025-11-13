@@ -23,6 +23,6 @@ Vrijwel alles wat je hiervoor moet doen staat op Docker Hub en in de documentati
 
 Om Jenkins de LTI-app te laten herstarten, kan je deze aanpak volgen:
 
-![aanpak](./setup project devops_annotated.png)
+![aanpak](./setup_project_devops_annotated.png)
 
 Dit vereist dat je een netwerk definieert waar containers uit de verschillende Compose stacks op kunnen aansluiten. Dit wordt [hier](https://docs.docker.com/compose/how-tos/networking/#use-a-pre-existing-network) uitgelegd.
